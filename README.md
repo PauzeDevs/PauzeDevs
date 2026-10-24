@@ -99,6 +99,18 @@ A modern communication project focused on a clean, responsive chat experience.
 
 ---
 
+### 📺 Auralis TV
+
+A cinematic, remote-first launcher for Android TV and Google TV. Auralis brings installed apps, film discovery, title details, voice search, local per-profile watchlists, and an ambient screensaver into one home screen.
+
+- Recently opened apps are launcher history; playback progress is not synced across streaming apps.
+- Watchlists are stored locally on the device and are not streamed or synced across accounts.
+- Auralis opens trailers, IMDb details, or service searches when supported; it does not stream titles.
+
+**Links:** [Android TV project](https://github.com/PauzeDevs/Auralis-TV/tree/Auralis) · [Product website source](https://github.com/PauzeDevs/Auralis-TV/tree/website/auralis-product-site/website)
+
+---
+
 ### 🛡️ Vyne Moderation
 
 A Discord moderation system designed around powerful server protection without making the user experience unnecessarily complicated.
